@@ -7,7 +7,7 @@ This project demonstrates how to use an I2C-connected LCD display and a buzzer w
 
 ## Example Picture
 
-![Example Picture](example-picture.jpg)
+![Example Picture](example-picture.png)
 
 ## Requirements
 
@@ -124,6 +124,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - The `pico_i2c_lcd` library for simplifying the control of the I2C LCD display.
-```
 
-Bu README dosyası, projenizin amacını, gerekli donanım ve yazılım gereksinimlerini, kodun nasıl çalıştığını ve nasıl kullanılacağını açıklar. Ayrıca, kullanıcıların karşılaşabileceği bazı yaygın sorunlara yönelik çözümler sunar. "example-picture.jpg" resmini README dosyasının bulunduğu dizine koyduğunuzdan emin olun.
